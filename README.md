@@ -4,7 +4,7 @@ VoiceVault is a desktop based application designed and developed using python pr
 We developed a voice recognition system using python & machine learning. It won't give acccess to user untill the voice doesn't match. We used 'python_speech_features' & 'pyaudio' modules of python for taking voice samples and for proccessing it, we used GMM model (Gaussian Mixture Model).
 
 # Technology Stack 
- Python, tkinter, remote SQL, Cryptography, gen
+ Python, tkinter, remote SQL, Cryptography, Gaussian Mixture
 
 # Developers
 1) Ishan Agrawal
